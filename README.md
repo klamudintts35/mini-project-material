@@ -19,4 +19,4 @@ Weather App 🌦 | React + Material UI + OpenWeather API
 
 Built a simple yet powerful Weather App that shows real-time weather updates using OpenWeather API. Learned a lot about API integration, React hooks, and Material UI in the process.
 
-#ReactJS #MaterialUI #OpenWeatherAPI #FrontendDevelopment #CodingProjects #WebDevelopment
+#ReactJS #MaterialUI #OpenWeatherAPI #FrontendDevelopment #CodingProjects #WebDevelopment.
